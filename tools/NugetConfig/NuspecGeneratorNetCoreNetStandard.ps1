@@ -28,7 +28,7 @@ $title = "DbConnection Extensions"
 $authors = "Asier Garcia"
 $owners = "Asier Garcia"
 $requireLicenseAcceptance = "false"
-$description = ""
+$description = "Db connection Extensions"
 $repository = "https://github.com/g4rc1ss/DbConnection-Extensions"
 
 
